@@ -1,10 +1,6 @@
-# Beecrowd (URI Online Judge)
+# Laboratório De Desenvolvimento de Software com C#
 
-Repositório para guardar as soluções dos problemas/desafios do <a href="https://www.beecrowd.com.br/" target="_blank">beecrowd</a>.
-
-Infelizmente não é possível focar em soluções com Clean Code! — Na maioria das vezes, o beecrowd pede uma solução um tanto quanto engessada! 🫡
-
-Meu <a href="https://www.beecrowd.com.br/judge/pt/users/university/fatec-gta" target="_blank">ranking</a>.
+Repositório para guardar as soluções dos problemas/desafios dos estudos de Csharp para a disciplina Laboratório De Desenvolvimento de Software com C#.
 
 ## Habilidades
-C#, lógica de programação e MUITA paciência.
+C#, lógica de programação.
